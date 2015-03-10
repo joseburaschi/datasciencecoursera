@@ -2,8 +2,8 @@
 
 This repo has been created to satisfy a class requirement
 
-The name of this repo is: datasciencecoursera
+_Repo Name_: datasciencecoursera
 
-Created by: Jose Buraschi
+_Created by_: Jose Buraschi
 
-The URL to the repo is the following [https://github.com/joseburaschi/datasciencecoursera/edit/master/README.md](https://github.com/joseburaschi/datasciencecoursera/edit/master/README.md)
+_The URL to the repo is the following_: [https://github.com/joseburaschi/datasciencecoursera/edit/master/README.md](https://github.com/joseburaschi/datasciencecoursera/edit/master/README.md)
